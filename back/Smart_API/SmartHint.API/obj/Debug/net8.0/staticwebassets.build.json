@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JkPUCmnqgWxlYdxPv8UruMWoG87SWX5owirFE8aWP8k=",
+  "Source": "SmartHint.API",
+  "BasePath": "_content/SmartHint.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

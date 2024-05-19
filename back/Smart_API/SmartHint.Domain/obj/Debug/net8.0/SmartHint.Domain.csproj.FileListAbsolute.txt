@@ -1,0 +1,13 @@
+D:\Documentos\Empresas\SmartHint_teste\Smart_API\Smart_API\SmartHint.Domain\bin\Debug\net8.0\SmartHint.Domain.deps.json
+D:\Documentos\Empresas\SmartHint_teste\Smart_API\Smart_API\SmartHint.Domain\bin\Debug\net8.0\SmartHint.Domain.dll
+D:\Documentos\Empresas\SmartHint_teste\Smart_API\Smart_API\SmartHint.Domain\bin\Debug\net8.0\SmartHint.Domain.pdb
+D:\Documentos\Empresas\SmartHint_teste\Smart_API\Smart_API\SmartHint.Domain\obj\Debug\net8.0\SmartHint.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Empresas\SmartHint_teste\Smart_API\Smart_API\SmartHint.Domain\obj\Debug\net8.0\SmartHint.Domain.AssemblyInfoInputs.cache
+D:\Documentos\Empresas\SmartHint_teste\Smart_API\Smart_API\SmartHint.Domain\obj\Debug\net8.0\SmartHint.Domain.AssemblyInfo.cs
+D:\Documentos\Empresas\SmartHint_teste\Smart_API\Smart_API\SmartHint.Domain\obj\Debug\net8.0\SmartHint.Domain.csproj.CoreCompileInputs.cache
+D:\Documentos\Empresas\SmartHint_teste\Smart_API\Smart_API\SmartHint.Domain\obj\Debug\net8.0\SmartHint.Domain.dll
+D:\Documentos\Empresas\SmartHint_teste\Smart_API\Smart_API\SmartHint.Domain\obj\Debug\net8.0\refint\SmartHint.Domain.dll
+D:\Documentos\Empresas\SmartHint_teste\Smart_API\Smart_API\SmartHint.Domain\obj\Debug\net8.0\SmartHint.Domain.pdb
+D:\Documentos\Empresas\SmartHint_teste\Smart_API\Smart_API\SmartHint.Domain\obj\Debug\net8.0\ref\SmartHint.Domain.dll
+D:\Documentos\Empresas\SmartHint_teste\Smart_API\Smart_API\SmartHint.Domain\obj\Debug\net8.0\SmartHint.Domain.csproj.AssemblyReference.cache
+D:\Documentos\Empresas\SmartHint_teste\Smart_API\Smart_API\SmartHint.Domain\obj\Debug\net8.0\SmartHint.Domain.sourcelink.json

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1H/uora7N521K8hdb+cmbDsmJlcanRTXzMky1dFrjVsFJjpT45gKwJ91M3xYxfXbosWBW1NVnKMipqYn3Ft0FQ==",
+  "success": true,
+  "projectFilePath": "D:\\Documentos\\Empresas\\SmartHint_teste\\Smart_API\\Smart_API\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
